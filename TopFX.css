@@ -104,3 +104,46 @@ h2{
 .subtitles2{
     text-align:center;
 }
+
+.containerFormImage{
+    position:relative;
+}
+
+.diveTitle{
+    top:80px;
+    left:500px;
+    position: absolute;
+    color:white;
+    font-size:40px;
+}
+
+.diveName{
+    top:140px;
+    left:500px;
+    position: absolute;
+    width:500px;
+}
+
+.diveSurname{
+    top:180px;
+    left:500px;
+    position: absolute;
+    width:500px;
+}
+
+.divePhone{
+    top:220px;
+    left:500px;
+    position: absolute;
+    width:500px;
+}
+
+.botMenu{
+    text-align:center;
+}
+
+.botMenu a{
+    padding:25px;
+    color:grey;
+    text-decoration: none;
+}
