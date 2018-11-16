@@ -1,0 +1,22 @@
+.topNav{
+    text-decoration: none;
+    float:right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    padding-right: 305px;
+    color:black;
+}
+
+.topNav a{
+    color:black;
+    font-weight: bold;
+    padding:5px;
+}
+
+
+.topMenu{
+    background-color: green;
+    float:right;
+    padding-left: 30px;
+}
+
