@@ -147,3 +147,32 @@ h2{
     color:grey;
     text-decoration: none;
 }
+
+.rWarning{
+
+    text-align:center;
+    width:100%;
+}
+
+.testFooter{
+    position:relative;
+    background-color:grey;
+    height:400px;
+    width:100%;
+}
+
+.footerImage{
+    position: absolute;
+    top:20px;
+    left:300px;
+}
+
+.footerTable{
+    position: absolute;
+    top:100px;
+    left:500px;
+}
+
+.rightsRes{
+    text-align:center;
+}
